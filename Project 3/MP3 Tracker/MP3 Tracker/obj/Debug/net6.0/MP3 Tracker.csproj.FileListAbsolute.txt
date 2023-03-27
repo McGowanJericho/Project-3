@@ -1,0 +1,60 @@
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.exe
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.deps.json
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.runtimeconfig.json
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.dll
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.pdb
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.AssemblyReference.cache
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfoInputs.cache
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfo.cs
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.CoreCompileInputs.cache
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.dll
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\refint\MP3 Tracker.dll
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.pdb
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.genruntimeconfig.cache
+E:\CSCI 1260\Project\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\ref\MP3 Tracker.dll
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.exe
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.deps.json
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.runtimeconfig.json
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.dll
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.pdb
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.AssemblyReference.cache
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfoInputs.cache
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfo.cs
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.CoreCompileInputs.cache
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.dll
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\refint\MP3 Tracker.dll
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.pdb
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.genruntimeconfig.cache
+E:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\ref\MP3 Tracker.dll
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.exe
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.deps.json
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.runtimeconfig.json
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.dll
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.pdb
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.AssemblyReference.cache
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfoInputs.cache
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfo.cs
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.CoreCompileInputs.cache
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.dll
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\refint\MP3 Tracker.dll
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.pdb
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.genruntimeconfig.cache
+D:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\ref\MP3 Tracker.dll
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.exe
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.deps.json
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.runtimeconfig.json
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.dll
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\bin\Debug\net6.0\MP3 Tracker.pdb
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.AssemblyReference.cache
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.GeneratedMSBuildEditorConfig.editorconfig
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfoInputs.cache
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.AssemblyInfo.cs
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.csproj.CoreCompileInputs.cache
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.dll
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\refint\MP3 Tracker.dll
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.pdb
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\MP3 Tracker.genruntimeconfig.cache
+H:\CSCI 1260\Project 3\MP3 Tracker\MP3 Tracker\obj\Debug\net6.0\ref\MP3 Tracker.dll
